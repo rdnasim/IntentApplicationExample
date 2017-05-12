@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentApplication Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_activity">First Activity</string>
+    <string name="title_activity_two">ActivityTwo</string>
+    <string name="second_text">Second Activity</string>
+</resources>

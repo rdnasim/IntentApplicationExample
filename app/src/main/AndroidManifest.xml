@@ -22,9 +22,13 @@
         <activity
             android:name=".ActivityTwo"
             android:label="@string/title_activity_two"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
 
-        <service android:name=".MyIntentService"></service>
+        <service android:name=".MyIntentService" />
+        <service
+            android:name=".MyService"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
 
 </manifest>
